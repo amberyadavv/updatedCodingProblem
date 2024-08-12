@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.CodingTask.solution.ScriptExecutionPlanTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-08-12T10:26:44" hostname="DESKTOP-6V57C9K" time="0.026">
+  <properties/>
+  <testcase name="testCyclicDependency()" classname="com.example.CodingTask.solution.ScriptExecutionPlanTest" time="0.015"/>
+  <testcase name="testMissingDependency()" classname="com.example.CodingTask.solution.ScriptExecutionPlanTest" time="0.001"/>
+  <testcase name="testExecutionPlanWithDependencies()" classname="com.example.CodingTask.solution.ScriptExecutionPlanTest" time="0.001"/>
+  <testcase name="testDuplicateScriptId()" classname="com.example.CodingTask.solution.ScriptExecutionPlanTest" time="0.001"/>
+  <testcase name="testExecutionPlanWithDependencies1()" classname="com.example.CodingTask.solution.ScriptExecutionPlanTest" time="0.002"/>
+  <testcase name="testExecutionPlanNoDependencies()" classname="com.example.CodingTask.solution.ScriptExecutionPlanTest" time="0.001"/>
+  <testcase name="testComplexExecutionPlan()" classname="com.example.CodingTask.solution.ScriptExecutionPlanTest" time="0.0"/>
+  <testcase name="testSelfDependency()" classname="com.example.CodingTask.solution.ScriptExecutionPlanTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
